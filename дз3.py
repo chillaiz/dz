@@ -3,7 +3,7 @@ import random
 wordlist =['apple', 'watermelon', 'grapafruit', 'banana']
 secret = random.choice(wordlist)
 guesses = 'aeiou'
-turns = 5
+turns = 5Р
 
 while turns > 0:
      missed = 0
